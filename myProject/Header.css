@@ -1,0 +1,21 @@
+.header-container{
+    height: 100px;
+    width: 100vw;
+    background-color: gray;
+}
+.list-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.list-items{
+    list-style-type: none;
+    font-size: 30px;
+    font-family: 'Roboto';
+    padding-top: 25px;
+
+}
+.items{
+    color: #ffffff;
+    text-decoration: none;
+}
